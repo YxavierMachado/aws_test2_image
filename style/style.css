@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vw;
+}
+
+img{
+    height: 300px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
